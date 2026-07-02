@@ -215,9 +215,10 @@ The system implements:
 
 ## Roadmap
 
-- [ ] Landing Page
-- [ ] User Authentication
-- [ ] Role-Based Access Control
+- [*] Landing Page
+- [*] User Authentication
+- [*] Role-Based Access Control
+- [ ] Settings Module
 - [ ] Procurement Module
 - [ ] Budget Allocation Module
 - [ ] Financial Dashboard
